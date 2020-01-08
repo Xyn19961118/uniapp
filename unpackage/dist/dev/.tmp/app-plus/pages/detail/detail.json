@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "nav": "/components/detail/nav",
+    "content": "/components/detail/content",
+    "footer": "/components/detail/footer"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="nav data-v-395c954d"><block wx:for="{{navList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="{{['nav-item data-v-395c954d',curr==index?'curr':'']}}" data-index="{{index}}" data-event-opts="{{[['tap',[['setCurr',['$event']]]]]}}" bindtap="__e">{{''+item+''}}</view></block></view>

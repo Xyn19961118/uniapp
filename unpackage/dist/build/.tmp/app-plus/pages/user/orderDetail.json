@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-address": "/components/common/address",
+    "v-item": "/components/user/common/item"
+  }
+}

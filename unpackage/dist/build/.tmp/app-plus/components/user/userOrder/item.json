@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-product": "/components/user/common/item"
+  },
+  "component": true
+}

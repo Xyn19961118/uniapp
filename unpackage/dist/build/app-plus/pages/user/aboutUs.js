@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nwx-page.",[1],"data-v-ff7bf1d4 { background: #fff; font-size: ",[0,24],"; line-height: 1.5; }\n.",[1],"container.",[1],"data-v-ff7bf1d4 { padding: ",[0,20]," ",[0,30],"; }\n",],undefined,{path:"./pages/user/aboutUs.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/aboutUs.wxml') } }));

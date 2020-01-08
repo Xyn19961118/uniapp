@@ -1,0 +1,1 @@
+<view class="container"><image class="product-img" lazy-load src="{{img}}" mode="widthFix"></image><block wx:if="{{activityImg}}"><image class="activity-img" lazy-load src="{{activityImg.logo}}" mode="widthFix"></image></block><block wx:if="{{cityImg}}"><image class="city-img" lazy-load src="{{cityImg}}" mode="widthFix"></image></block></view>

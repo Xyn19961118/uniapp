@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "nav": "/components/user/common/nav",
+    "select": "/components/common/select",
+    "content": "/components/user/collect/content"
+  }
+}

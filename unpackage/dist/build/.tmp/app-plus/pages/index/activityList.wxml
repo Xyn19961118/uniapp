@@ -1,0 +1,1 @@
+<view class="activity"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__" wx:key="goods_id"><view class="item"><v-item vue-id="{{'1-'+__i0__}}" item="{{item}}" data-event-opts="{{[['^addShopCar',[['addShopCar']]]]}}" bind:addShopCar="__e" bind:__l="__l"></v-item></view></block></view>

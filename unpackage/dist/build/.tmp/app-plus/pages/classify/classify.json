@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "nav": "/components/classify/nav",
+    "content": "/components/classify/content",
+    "search": "/components/common/search"
+  }
+}

@@ -1,0 +1,1 @@
+<view><view class="nav-wrapper"><nav vue-id="1" navList="{{navList}}" curr="{{curr}}" data-event-opts="{{[['^setCurr',[['setCurr']]]]}}" bind:setCurr="__e" bind:__l="__l"></nav></view><view class="content-wrapper"><content vue-id="2" curr="{{curr}}" dataObj="{{dataObj}}" data-event-opts="{{[['^setCurr',[['setCurr']]]]}}" bind:setCurr="__e" bind:__l="__l"></content></view></view>

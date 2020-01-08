@@ -1,0 +1,1 @@
+<view class="select data-v-2de4a898"><image class="select-img data-v-2de4a898" src="{{isSelect?selectedImg:selectImg}}" mode="widthFix" data-event-opts="{{[['tap',[['changeSelect',['$event']]]]]}}" bindtap="__e"></image></view>

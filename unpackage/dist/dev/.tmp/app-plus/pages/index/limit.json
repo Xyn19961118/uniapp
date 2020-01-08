@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "限时特卖",
+  "navigationBarBackgroundColor": "#e93340",
+  "backgroundColor": "#e93340",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "limit-item": "/components/common/limit"
+  }
+}

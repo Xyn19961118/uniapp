@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-content": "/components/shopcar/content",
+    "v-select": "/components/common/select"
+  }
+}

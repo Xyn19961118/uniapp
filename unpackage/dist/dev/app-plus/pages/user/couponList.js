@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"nav-wrapper { position: fixed; width: 100%; height: ",[0,80],"; left: 0; top: 0; z-index: 6; }\n",],undefined,{path:"./pages/user/couponList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/couponList.wxml') } }));

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "开店",
+  "usingComponents": {
+    "v-select": "/components/common/select"
+  }
+}

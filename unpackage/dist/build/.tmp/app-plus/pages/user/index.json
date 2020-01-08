@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "nav": "/components/user/index/nav",
+    "content": "/components/user/index/content",
+    "footer": "/components/common/footer"
+  }
+}

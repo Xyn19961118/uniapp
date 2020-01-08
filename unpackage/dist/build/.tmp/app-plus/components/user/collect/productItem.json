@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "v-select": "/components/common/select",
+    "v-pic": "/components/common/productPic"
+  },
+  "component": true
+}

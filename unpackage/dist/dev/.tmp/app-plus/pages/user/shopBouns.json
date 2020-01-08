@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-nav": "/components/user/common/nav",
+    "v-content": "/components/user/shopBouns/content"
+  }
+}

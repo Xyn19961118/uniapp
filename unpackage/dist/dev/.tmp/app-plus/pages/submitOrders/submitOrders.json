@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "v-select": "/components/common/select",
+    "v-address": "/components/common/address",
+    "v-content": "/components/submitOrders/content"
+  }
+}

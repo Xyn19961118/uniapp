@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-item": "/components/user/shopBouns/item"
+  },
+  "component": true
+}

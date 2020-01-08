@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "banner": "/components/detail/banner",
+    "recommend": "/components/detail/recommend",
+    "introduce": "/components/detail/Introduce",
+    "contrast": "/components/detail/contrast"
+  },
+  "component": true
+}

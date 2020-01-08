@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "v-select": "/components/common/select",
+    "v-bouns": "/components/submitOrders/bouns",
+    "v-item": "/components/submitOrders/item"
+  },
+  "component": true
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-pic": "/components/common/productPic"
+  },
+  "component": true
+}

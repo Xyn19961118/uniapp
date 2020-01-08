@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "v-banner": "/components/common/banner",
+    "v-content": "/components/shop/content",
+    "v-aside": "/components/common/aside",
+    "v-footer": "/components/common/footer"
+  }
+}

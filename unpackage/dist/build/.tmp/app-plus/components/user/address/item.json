@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "v-select": "/components/common/select"
+  },
+  "component": true
+}

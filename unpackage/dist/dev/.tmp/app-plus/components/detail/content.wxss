@@ -1,0 +1,293 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.price-wrapper.data-v-b0e4dd88 {
+  width: 100%;
+  height: 80rpx;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ff9494), to(#ff0b26));
+  background: -o-linear-gradient(top, #ff9494, #ff0b26);
+  background: linear-gradient(to bottom, #ff9494, #ff0b26);
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #fff;
+}
+.price-wrapper .new-price.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 30rpx;
+    font-size: 40rpx;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.price-wrapper .new-price .span.data-v-b0e4dd88 {
+      font-size: 20rpx;
+}
+.price-wrapper .old-price.data-v-b0e4dd88 {
+    margin-left: 20rpx;
+    font-size: 24rpx;
+    text-decoration: line-through;
+}
+.info.data-v-b0e4dd88 {
+  padding: 20rpx 30rpx;
+  background: #fff;
+  -webkit-box-shadow: 0 6rpx 6rpx #eee;
+          box-shadow: 0 6rpx 6rpx #eee;
+}
+.info .info-top.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.info .info-top .info-name.data-v-b0e4dd88 {
+      line-height: 42rpx;
+      color: #000;
+}
+.info .info-top .info-icon.data-v-b0e4dd88 {
+      width: 84rpx;
+      height: 28rpx;
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 10rpx;
+}
+.info .info-bottom.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-top: 16rpx;
+}
+.info .info-bottom .info-item.data-v-b0e4dd88 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      margin-right: 60rpx;
+      color: #999;
+      font-size: 24rpx;
+}
+.info .info-bottom .info-item .info-city.data-v-b0e4dd88 {
+        width: 40rpx;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 10rpx;
+}
+.point.data-v-b0e4dd88 {
+  width: 12rpx;
+  height: 24rpx;
+  margin-left: auto;
+}
+.select-goods.data-v-b0e4dd88 {
+  margin-top: 20rpx;
+  background: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 30rpx;
+  -webkit-box-shadow: 0 0 10rpx #ddd;
+          box-shadow: 0 0 10rpx #ddd;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.select-goods .select-goods-info.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 30rpx;
+    font-weight: bold;
+    color: #000;
+}
+.select-goods .select-goods-info .select-goods-name.data-v-b0e4dd88 {
+      max-width: 440rpx;
+      height: 40rpx;
+      overflow: hidden;
+      -o-text-overflow: ellipsis;
+         text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-right: 12rpx;
+}
+.shop.data-v-b0e4dd88 {
+  margin-top: 20rpx;
+  background: #fff;
+  padding: 30rpx;
+  -webkit-box-shadow: 0 0 10rpx #ddd;
+          box-shadow: 0 0 10rpx #ddd;
+}
+.shop .shop-info.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.shop .shop-info .shop-head.data-v-b0e4dd88 {
+      width: 84rpx;
+      height: 84rpx;
+      border: #eee 2rpx solid;
+      margin-right: 16rpx;
+      border-radius: 50%;
+}
+.shop .shop-info .shop-name.data-v-b0e4dd88 {
+      font-size: 26rpx;
+      color: #000;
+}
+.shop .shop-info .shop-tip.data-v-b0e4dd88 {
+      width: 80rpx;
+      margin-left: 8rpx;
+}
+.shop .shop-info .shop-enter.data-v-b0e4dd88 {
+      margin-left: auto;
+      width: 160rpx;
+      height: 60rpx;
+      border-radius: 30rpx;
+      border: #000 2rpx solid;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      color: #000;
+      font-size: 24rpx;
+}
+.shop .shop-welcome.data-v-b0e4dd88 {
+    background: #f6f6f6;
+    padding: 24rpx 52rpx;
+    margin-top: 20rpx;
+    border-radius: 8rpx;
+}
+.detail-recommend.data-v-b0e4dd88 {
+  background: #fff;
+  -webkit-box-shadow: 0 0 12rpx #ddd;
+          box-shadow: 0 0 12rpx #ddd;
+  margin-top: 20rpx;
+}
+.detail-recommend .detail-recommend-content.data-v-b0e4dd88 {
+    padding: 12rpx 0;
+    color: #000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.detail-recommend .detail-recommend-content .detail-recommend-item.data-v-b0e4dd88 {
+      width: 33.33%;
+}
+.detail-recommend-title.data-v-b0e4dd88 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 20rpx 30rpx;
+}
+.detail-recommend-title .detail-recommend-tit.data-v-b0e4dd88 {
+    color: #000;
+}
+.detail-recommend-title .detail-recommend-link.data-v-b0e4dd88 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: auto;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.detail-recommend-title .detail-recommend-link .detail-recommend-link-name.data-v-b0e4dd88 {
+      color: #333;
+      font-size: 26rpx;
+      margin-right: 8rpx;
+}
+.introduce.data-v-b0e4dd88 {
+  background: #fff;
+  margin-top: 20rpx;
+  -webkit-box-shadow: 0 0 12rpx #ddd;
+          box-shadow: 0 0 12rpx #ddd;
+}
+.introduce-container.data-v-b0e4dd88 {
+  background: #fff;
+}
+.details-end.data-v-b0e4dd88 {
+  padding: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.details-end-img.data-v-b0e4dd88 {
+  width: 134rpx;
+  height: 28rpx;
+  margin: auto;
+}
+.contrast.data-v-b0e4dd88 {
+  margin-top: 20rpx;
+}
+

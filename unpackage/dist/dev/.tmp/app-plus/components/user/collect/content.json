@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "v-product-item": "/components/user/collect/productItem",
+    "v-shop-item": "/components/user/collect/shopItem"
+  },
+  "component": true
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "order-item": "/components/user/common/item"
+  },
+  "component": true
+}
